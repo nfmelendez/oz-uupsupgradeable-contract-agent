@@ -2,7 +2,7 @@
 
 ## Description
 
-This agent detects when the UUPSUpgradeable contract is upgraded and then selfdestructed leaving the contract broken and funds locked.
+This agent detects when the UUPSUpgradeable contract is upgraded and then selfdestructed leaving the contract broken.
 
 ## Supported Chains
 
